@@ -1,0 +1,60 @@
+body {
+    font-family: "Ojuju", "Open Sans";
+    color: white;
+    background-color: black;
+}
+
+.navbar {
+    background-color: transparent, !important;
+    color: white;
+}
+
+.bg-interno {
+    background-color: #3bc4da;
+    transition: 2s;
+}
+
+.hr_linea {
+    background-color: #3bc4da;
+}
+
+.card0 {
+    background-color: black;
+    color: white;
+}
+
+.card-body00 {
+    background-color: white;
+}
+
+.card-body01 {
+    background-color: #3bc4da;
+}
+
+.fa-iconos {
+    color: white;
+}
+
+.card-body02 {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+.card-body03 {
+    background-color: #3bc4da;
+    color: white;
+    text-align: left;
+}
+
+.page-footer {
+    background-color: #3bc4da;
+}
+
+footer {
+    color: white;
+    font-weight: bold;
+    background-color: #3bc4da;
+    width: 100%;
+    padding: 2px;
+}
