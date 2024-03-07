@@ -5,13 +5,7 @@ body {
 }
 
 .navbar {
-    background-color: transparent, !important;
     color: white;
-}
-
-.bg-interno {
-    background-color: #3bc4da;
-    transition: 2s;
 }
 
 .hr_linea {
